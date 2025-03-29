@@ -3,4 +3,6 @@ share: "true"
 title: Test Page
 ---
 wiki test
-[Name](./link-test.md)
+[[./link-test|Name]]
+#hashtag
+additional text
